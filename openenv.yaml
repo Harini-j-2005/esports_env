@@ -1,0 +1,12 @@
+name: esports_ops_env
+description: RL environment simulating esports player optimization including training, performance analysis, and fan engagement
+
+tasks:
+  - name: training
+    description: Improve weakest player skill
+
+  - name: analysis
+    description: Analyze match performance
+
+  - name: engagement
+    description: Handle fan interactions
